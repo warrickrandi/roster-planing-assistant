@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 class RequestHandler:
     
     baseUrl = 'http://roater-management-api'
-    headers = {'Content-Type': 'application/json', 'token-id': 'ha1234wasErcdf'}
+    headers = {'Content-Type': 'application/json', 'token-id': ''}
     
     def __init__(self):
         pass
