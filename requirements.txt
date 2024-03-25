@@ -1,0 +1,9 @@
+streamlit
+openai
+python-dotenv
+langchain
+langchain_experimental
+langchain-openai
+langchain_community
+flask
+flask_cors

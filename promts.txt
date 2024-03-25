@@ -1,0 +1,46 @@
+unassign OFF crew ids 104928,100028 from 01/03/2024 to 03/03/2024
+unassign OFF crew ids 104928 ,100028 from 01/03/2024 to 03/03/2024
+
+UnAssign crew ids 100342,101295 between 01/03/2024 and 02/03/2024 dates
+
+
+Assign duty CMB on 24/03/2024 to crewID 106710
+
+Assign duty CMB on 02/03/2024 to crew id 100028
+
+
+
+Assign OFF on 01/03/2024 to 03/03/2024 for crew id 100028
+
+
+1. Filtering and identifying crew based on specific criteria
+2. Executing balancing and assignment actions on the roster
+3. Present an option to integrate the chatbot to the rostering screen
+
+CREW MATE Roster Planning Assistant
+
+
+
+
+Give me the list of G9 CP who have less than 4 nights and flying hrs are below 50 and leave count below 10 days
+
+Show me the G9 CC with less than 60 credit hours with no layover duties and off count less than 8, and another set of G9 CC with more than 100 credit hours with at least 3 layovers and 5 night duties
+
+Show me the captains that have less than 4 nights, credit hours are below 70 hours, leaves between 5 and 8 days. Mention the crew id ,crew name, flying hours and credit hours
+Give the list of CPs in descending order of layovers
+give me the CCs with most  layover from Air Arabia Sharjah
+
+Give me the count of CP with 4 layovers, 2 layovers,1 layovers and 3 layovers listed in tabular form
+
+what is the average credit hours of CP
+I want the list of CP who have Credit hours less than 10% of average credit hours of CP
+Give me the number of Captains who have credit hours less than the average CP credit hours
+
+Give me the names ,ids, credit hours, leave counts of G9 CP who have less than 30 credit hours without any layover duties and OFF count less than 8, and another list of G9 CP with credit hours more than 80 and more than 5 leaves
+
+
+unassign OFF crew ids 101538,100555 from 01/03/2024 to 03/03/2024
+unassign OFF crew ids 101529,101187 from 01/03/2024 to 03/03/2024
+
+Assign duty CMB on 01/03/2024 to crewID 100612
+Assign duty CMB on 01/03/2024 to crewID 100106

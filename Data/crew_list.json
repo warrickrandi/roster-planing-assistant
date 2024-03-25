@@ -1,0 +1,28 @@
+{
+    "success": true,
+    "messages": null,
+    "errors": [],
+    "warnings": [],
+    "crewList": [
+        {
+            "crewProfileId": 8260,
+            "crewId": "106048",
+            "firstName": "AALIYA",
+            "lastName": "PARVEEN",
+            "dob": "10/12/1998",
+            "dateOfJoin": "12/03/2023",
+            "dateOfContract": null,
+            "crewType": "OCC"
+        },
+        {
+            "crewProfileId": 7509,
+            "crewId": "10288",
+            "firstName": "ABDELRAHMAN",
+            "lastName": "OSMAN",
+            "dob": "22/12/1972",
+            "dateOfJoin": "04/12/2021",
+            "dateOfContract": null,
+            "crewType": "EN"
+        }
+    ]
+}

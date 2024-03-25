@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embedded Chat</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"> <!-- Font Awesome CDN for icons -->
+    <style>
+        /* Beautify style */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+        .chat-container {
+            text-align: center;
+        }
+        .chat-link {
+            background-color: #007bff;
+            color: #fff;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            font-size: 18px;
+            transition: background-color 0.3s ease;
+        }
+        .chat-link:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+<div class="chat-container">
+    <h1>Need assistance? <i class="fas fa-comment-alt"></i></h1>
+    <a class="chat-link" href="javascript:void(0);" onclick="openChatWindow()">Start Chat</a>
+</div>
+
+<script>
+function openChatWindow() {
+    var chatUrl = "http://localhost:8501/";
+    window.open(chatUrl, "_blank", "width=600,height=400,resizable=yes,scrollbars=yes");
+}
+</script>
+
+</body>
+</html>
